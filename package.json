@@ -1,0 +1,12 @@
+{
+  "name": "function-call-player",
+  "version": "1.0.0",
+  "description": "Controlling function invocation step by step or within time intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dmitry Degtiariov",
+  "license": "MIT"
+}
